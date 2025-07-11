@@ -1,0 +1,4 @@
+﻿  C++ Arduino Hour Tracker.cpp
+C:\Users\sword\source\repos\C++ Arduino Hour Tracker\C++ Arduino Hour Tracker\C++ Arduino Hour Tracker.cpp(53,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sword\source\repos\C++ Arduino Hour Tracker\C++ Arduino Hour Tracker\C++ Arduino Hour Tracker.cpp(94,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  C++ Arduino Hour Tracker.vcxproj -> C:\Users\sword\source\repos\C++ Arduino Hour Tracker\x64\Debug\C++ Arduino Hour Tracker.exe
